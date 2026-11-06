@@ -25,6 +25,10 @@ In this project, we use end-of-day Tesla stock option data from the years 2019 a
 
 https://www.kaggle.com/datasets/kylegraupe/tsla-daily-eod-options-quotes-2019-2022
 
+The dataset can also be downloaded from the following Google Drive folder:
+
+https://drive.google.com/drive/folders/1NAmuCUru2C9XKaKmHgzfES-PoFzS-iaF?usp=sharing
+
 ## 2. Project Overview
 
 In the list below, we briefly describe the contents of each section of this project's Jupyter notebook.
