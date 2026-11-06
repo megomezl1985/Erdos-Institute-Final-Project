@@ -11,7 +11,7 @@ The goal of this project is to perform a systematic comparison between two metho
 *   The S-1D kernel smoothing method.
 *   The Heston model.
 
-The *S-1D kernel smoothing method* is a simplified version of the kernel smoothing method introduced in the following paper:
+The *S-1D kernel smoothing method* is a simplified version of the kernel smoothing method introduced in the following paper, which we also included in this repository:
 
 > M. Ulrich, S. Walther, *Option-implied information: What's the vol surface got to do with it?*, Review of Derivatives Research (2020) 23:323–355.
 
