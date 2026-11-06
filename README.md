@@ -15,7 +15,7 @@ The *S-1D kernel smoothing method* is a simplified version of the kernel smoothi
 
 > M. Ulrich, S. Walther, *Option-implied information: What's the vol surface got to do with it?*, Review of Derivatives Research (2020) 23:323–355.
 
-The code in this project's Jupyter notebook can be used to compare the accuracy of the 1-SD kernel smoothing method and the Heston model for estimating implied volatilities on any quote date in our dataset.
+The code in this project's Jupyter notebook (Kernel_Smoothing_Project.ipynb) can be used to compare the accuracy of the 1-SD kernel smoothing method and the Heston model for estimating implied volatilities on any quote date in our dataset.
 
 Below, we provide an overview of this project and guidelines for running the analysis.
 
